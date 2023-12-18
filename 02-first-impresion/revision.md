@@ -32,7 +32,7 @@ In this project, I tried for the first time to take pictures of food and to more
 ### Spike
 As I said before, I love colors, I try to add vibrancy and color to my photos and works. One of the other projects is Spike, where I took product photos for social media and website.
 
-![1 Spike](https://github.com/timidrokin/english-for-designers/assets/150053615/65bcc2b5-ee40-443a-ada2-e75ff1b435ee)![2 Spike](https://github.com/timidrokin/english-for-designers/assets/150053615/5ef90e3c-4a78-4c74-bed5-ff905f02f290)![3 Spike](https://github.com/timidrokin/english-for-designers/assets/150053615/bca5f7a4-94c0-4601-a3ee-b55300792854)
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/65bcc2b5-ee40-443a-ada2-e75ff1b435ee" width=30% height=30%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/5ef90e3c-4a78-4c74-bed5-ff905f02f290" width=30% height=30%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/bca5f7a4-94c0-4601-a3ee-b55300792854" width=30% height=30%>
 
 
 ## Free time
@@ -41,6 +41,7 @@ In my free time, I like to take analog photos and make collages with my photos. 
 ### Analog
 
 ![3](https://github.com/timidrokin/english-for-designers/assets/150053615/6ae3365f-bd90-4670-b702-b2f83d4f026f)![5](https://github.com/timidrokin/english-for-designers/assets/150053615/3fb3b6c0-af81-4c12-8745-23595f5017ec)![4](https://github.com/timidrokin/english-for-designers/assets/150053615/4bb16930-b69c-4951-a9c4-bd6e154e510e)
+
 
 ### Collages
 
