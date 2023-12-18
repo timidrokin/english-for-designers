@@ -32,7 +32,7 @@ In this project, I tried for the first time to take pictures of food and to more
 ### Spike
 As I said before, I love colors, I try to add vibrancy and color to my photos and works. One of the other projects is Spike, where I took product photos for social media and website.
 
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/65bcc2b5-ee40-443a-ada2-e75ff1b435ee" width=30% height=30%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/5ef90e3c-4a78-4c74-bed5-ff905f02f290" width=30% height=30%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/bca5f7a4-94c0-4601-a3ee-b55300792854" width=30% height=30%>
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/65bcc2b5-ee40-443a-ada2-e75ff1b435ee" width=30% height=30%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/bca5f7a4-94c0-4601-a3ee-b55300792854" width=30% height=30%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/5ef90e3c-4a78-4c74-bed5-ff905f02f290" width=30% height=30%> 
 
 
 ## Free time
