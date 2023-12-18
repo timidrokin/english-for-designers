@@ -1,7 +1,8 @@
 ## Hi, I'm Timofej...
 
-Hi, I'm Timofej, but just call me Timi. I'm mainly a product photographer. I try to put a lot of color into my photos and I look for interesting details. Outside of photography, I love sports and travel. <img src='(https://github.com/timidrokin/english-for-designers/assets/150053615/7d592ff7-fbfb-48ed-a4ce-62f70512db8b)' width='25'>
+Hi, I'm Timofej, but just call me Timi. I'm mainly a product photographer. I try to put a lot of color into my photos and I look for interesting details. Outside of photography, I love sports and travel. ![Timi.png](https://github.com/timidrokin/english-for-designers/assets/150053615/7b9e9743-fedb-4cde-b84d-d73f7e28c319)
 
+<img src='Timi.png' width='25'>
 
 
 ## Projects
