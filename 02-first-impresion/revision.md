@@ -46,7 +46,10 @@ In my free time, I like to take analog photos and make collages with my photos. 
 
 ### Collages
 
-![1](https://github.com/timidrokin/english-for-designers/assets/150053615/0f04cc85-ee7d-46e7-9eb0-f92148ef59b3)![6](https://github.com/timidrokin/english-for-designers/assets/150053615/df86d211-9ba3-43a8-96c3-39b0bf2fd5d0)![2](https://github.com/timidrokin/english-for-designers/assets/150053615/ddb26093-aa43-4ada-b581-b45698233797)
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/0f04cc85-ee7d-46e7-9eb0-f92148ef59b3" width=30% height=30%>
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/df86d211-9ba3-43a8-96c3-39b0bf2fd5d0" width=30% height=30%>
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/ddb26093-aa43-4ada-b581-b45698233797" width=30% height=30%>
+
 
 ### Portraits
 
