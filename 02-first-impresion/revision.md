@@ -1,6 +1,6 @@
 ## Hi, I'm Timofej...
 
-Hi, I'm Timofej, but just call me Timi. I'm mainly a product photographer. I try to put a lot of color into my photos and I look for interesting details. Outside of photography, I love sports and travel. 
+Hi, I'm Timofej, but just call me Timi. I'm mainly a product photographer. I try to put a lot of color into my photos and I look for interesting details. Outside of photography, I love sports and travel.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/934c107d-0b53-4814-86e8-7c2f7b0a168c" width=40% height=40%>
 
@@ -10,9 +10,10 @@ Hi, I'm Timofej, but just call me Timi. I'm mainly a product photographer. I try
 ### Vermont
 One of my bigger projects where I photographed. Clothes for brands such as Diesel, Karl Lagerfeld, Peak Permormance, Gant... for the Vermont company.
 
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3ead3119-32c8-4f9c-8833-0817afd0b258" width=40% height=40%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/6939c5e7-c384-4c67-b074-e12367c0a18c" width=43% height=43%> 
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/2b1c111d-6e2a-42df-bfc9-4f5ea4c2912b" width=30% height=30%>
- <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/8c8ea78b-2f96-432a-9491-a19bda21dc24" width=45% height=45%>
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d7f315b7-a418-40e3-afe4-e3ebcc0352fe" width=40% height=40%> 
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3b228590-3b86-4df3-9782-e06a11018556" width=40% height=40%> 
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/988b0afc-5447-4a6e-83cd-e9e2c4d6635b" width=40% height=40%>
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/ebf0f5f0-7c22-43cf-aad8-009e9abeb152" width=40% height=40%>
 
 
 ### Snapbacks
