@@ -18,7 +18,8 @@ One of my bigger projects where I photographed. Clothes for brands such as Diese
 ### Snapbacks
 A long-term project where I took photos and made videos for websites and socials.
 
-![1 Snapbacks](https://github.com/timidrokin/english-for-designers/assets/150053615/d3dee94a-c82c-4259-93d8-de50b76203d5)![2 Snapbacks](https://github.com/timidrokin/english-for-designers/assets/150053615/3063c4a3-7b16-4fae-bdce-a392d00f9a92)![3 Snapbacks](https://github.com/timidrokin/english-for-designers/assets/150053615/de65f644-e771-4b11-af58-a3f38052e80f)
+ <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d3dee94a-c82c-4259-93d8-de50b76203d5" width=50% height=50%>  <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3063c4a3-7b16-4fae-bdce-a392d00f9a92" width=50% height=50%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/de65f644-e771-4b11-af58-a3f38052e80f" width=50% height=50%> 
+
 
 
 ### Matoka
