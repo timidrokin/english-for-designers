@@ -25,8 +25,9 @@ A long-term project where I took photos and made videos for websites and socials
 ### Matoka
 In this project, I tried for the first time to take pictures of food and to more stylize the photos.
 
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d099276f-e075-459c-8435-49ade5138209" width=30% height=30%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/712e79a8-e348-4898-b18e-dfcd040feacc" width=30% height=30%>
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/01377987-cfcd-4e49-b923-beed5e50cad8" width=30% height=30%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/4ecc0a0c-eb31-4dfa-9bfd-273a0efda68d" width=30% height=30%> 
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d099276f-e075-459c-8435-49ade5138209" width=30% height=30%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/4ecc0a0c-eb31-4dfa-9bfd-273a0efda68d" width=30% height=30%>
+
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/01377987-cfcd-4e49-b923-beed5e50cad8" width=30% height=30%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/712e79a8-e348-4898-b18e-dfcd040feacc" width=30% height=30%>
 
 ### Spike
 As I said before, I love colors, I try to add vibrancy and color to my photos and works. One of the other projects is Spike, where I took product photos for social media and website.
