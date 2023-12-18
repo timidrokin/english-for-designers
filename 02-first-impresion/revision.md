@@ -10,9 +10,9 @@ Hi, I'm Timofej, but just call me Timi. I'm mainly a product photographer. I try
 ### Vermot
 One of my bigger projects where I photographed. Clothes for brands such as Diesel, Karl Lagerfeld, Peak Permormance, Gant... for the Vermont company.
 
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3ead3119-32c8-4f9c-8833-0817afd0b258" width=40% height=40%>
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3ead3119-32c8-4f9c-8833-0817afd0b258" width=40% height=40%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/6939c5e7-c384-4c67-b074-e12367c0a18c" width=40% height=40%> 
 
-![4 Vermont](https://github.com/timidrokin/english-for-designers/assets/150053615/3ead3119-32c8-4f9c-8833-0817afd0b258) ![3 Vermont](https://github.com/timidrokin/english-for-designers/assets/150053615/6939c5e7-c384-4c67-b074-e12367c0a18c) ![2 Vermont](https://github.com/timidrokin/english-for-designers/assets/150053615/2b1c111d-6e2a-42df-bfc9-4f5ea4c2912b) ![1 Vermont](https://github.com/timidrokin/english-for-designers/assets/150053615/8c8ea78b-2f96-432a-9491-a19bda21dc24)
+![3 Vermont](https://github.com/timidrokin/english-for-designers/assets/150053615/6939c5e7-c384-4c67-b074-e12367c0a18c) ![2 Vermont](https://github.com/timidrokin/english-for-designers/assets/150053615/2b1c111d-6e2a-42df-bfc9-4f5ea4c2912b) ![1 Vermont](https://github.com/timidrokin/english-for-designers/assets/150053615/8c8ea78b-2f96-432a-9491-a19bda21dc24)
 
 
 ### Snapbacks
