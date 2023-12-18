@@ -7,7 +7,7 @@ Hi, I'm Timofej, but just call me Timi. I'm mainly a product photographer. I try
 
 ## Projects
 
-### Vermot
+### Vermont
 One of my bigger projects where I photographed. Clothes for brands such as Diesel, Karl Lagerfeld, Peak Permormance, Gant... for the Vermont company.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3ead3119-32c8-4f9c-8833-0817afd0b258" width=40% height=40%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/6939c5e7-c384-4c67-b074-e12367c0a18c" width=43% height=43%> 
@@ -19,7 +19,6 @@ One of my bigger projects where I photographed. Clothes for brands such as Diese
 A long-term project where I took photos and made videos for websites and socials.
 
  <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d3dee94a-c82c-4259-93d8-de50b76203d5" width=28% height=28%>  <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3063c4a3-7b16-4fae-bdce-a392d00f9a92" width=27% height=27%> <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/de65f644-e771-4b11-af58-a3f38052e80f" width=30% height=30%> 
-
 
 
 ### Matoka
@@ -40,7 +39,9 @@ In my free time, I like to take analog photos and make collages with my photos. 
 
 ### Analog
 
-![3](https://github.com/timidrokin/english-for-designers/assets/150053615/6ae3365f-bd90-4670-b702-b2f83d4f026f)![5](https://github.com/timidrokin/english-for-designers/assets/150053615/3fb3b6c0-af81-4c12-8745-23595f5017ec)![4](https://github.com/timidrokin/english-for-designers/assets/150053615/4bb16930-b69c-4951-a9c4-bd6e154e510e)
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/6ae3365f-bd90-4670-b702-b2f83d4f026f" width=30% height=30%> 
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3fb3b6c0-af81-4c12-8745-23595f5017ec" width=30% height=30%> 
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/4bb16930-b69c-4951-a9c4-bd6e154e510e" width=30% height=30%> 
 
 
 ### Collages
