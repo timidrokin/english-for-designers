@@ -32,9 +32,6 @@ In this project, I tried for the first time to take pictures of food and to more
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d65ebd20-05a7-4386-8af3-d98cf8115b64" width=30% height=30%>
 
 
-
-
-
 ### Spike
 As I said before, I love colors, I try to add vibrancy and color to my photos and works. One of the other projects is Spike, where I took product photos for social media and website.
 
