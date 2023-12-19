@@ -1,13 +1,13 @@
 ## Hi, I'm Timofej...
 
-Hi, I'm Timofej, but just call me Timi. I'm mainly a product photographer. I try to put a lot of color into my photos and I look for interesting details. Outside of photography, I love sports and travel.
+Hi, I'm Timofej, but just call me Timi. I'm mainly a product photographer. I try to put a lot of color into my photos and I look for interesting details. Outside of photography, I love sports and traveling.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/934c107d-0b53-4814-86e8-7c2f7b0a168c" width=30% height=30%>
 
 ## My Projects
 
 ### Vermont
-One of my bigger projects where I photographed. Clothes for brands such as Diesel, Karl Lagerfeld, Peak Permormance, Gant... for the Vermont company.
+One of my bigger projects where I photographed. Clothes for brands such as Diesel, Karl Lagerfeld, Peak Performance, Gant... for the Vermont company.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d7f315b7-a418-40e3-afe4-e3ebcc0352fe" width=40% height=40%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3b228590-3b86-4df3-9782-e06a11018556" width=40% height=40%>
