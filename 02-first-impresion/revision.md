@@ -25,7 +25,6 @@ A long-term project where I took photos and made videos for websites and socials
 ### Matoka
 In this project, I tried for the first time to take pictures of food and to more stylize the photos.
 
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/f93dd3f3-a1be-4237-8b14-d876d6930420" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/664e2287-cd58-4cac-8c65-c97339d467a5" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/db466192-a6b2-4209-aaab-be18903d5f10" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d65ebd20-05a7-4386-8af3-d98cf8115b64" width=30% height=30%>
