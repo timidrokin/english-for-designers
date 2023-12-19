@@ -51,7 +51,7 @@ In 2015 I bought my first analog camera and since that year I have been more int
 
 
 ## Collages
-These projects are more personal to me. I always draw a smiley face there, which I use as my logo, because despite my moods, it gives a slightly positive view of the collage.
+These projects are more personal to me. I always draw a smiley face there, which I use as my logo. It gives a slightly positive view.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/0f04cc85-ee7d-46e7-9eb0-f92148ef59b3" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/ddb26093-aa43-4ada-b581-b45698233797" width=30% height=30%>
