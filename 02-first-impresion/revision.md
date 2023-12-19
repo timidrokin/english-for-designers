@@ -11,7 +11,6 @@ One of my bigger projects where I photographed. Clothes for brands such as Diese
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d7f315b7-a418-40e3-afe4-e3ebcc0352fe" width=40% height=40%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3b228590-3b86-4df3-9782-e06a11018556" width=40% height=40%>
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/988b0afc-5447-4a6e-83cd-e9e2c4d6635b" width=40% height=40%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/ebf0f5f0-7c22-43cf-aad8-009e9abeb152" width=40% height=40%>
 
 
