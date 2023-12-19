@@ -4,7 +4,7 @@ Hi, I'm Timofej, but just call me Timi. I'm mainly a product photographer. I try
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/934c107d-0b53-4814-86e8-7c2f7b0a168c" width=30% height=30%>
 
-## Projects
+## My Projects
 
 ### Vermont
 One of my bigger projects where I photographed. Clothes for brands such as Diesel, Karl Lagerfeld, Peak Permormance, Gant... for the Vermont company.
