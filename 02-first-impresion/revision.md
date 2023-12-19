@@ -43,6 +43,7 @@ In my free time, I like to take analog photos and make collages with my photos. 
 
 
 ### Analog
+In 2015 I bought my first analog camera and since that year I have been more interested in analog and old photography.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/6ae3365f-bd90-4670-b702-b2f83d4f026f" width=30% height=30%> 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3fb3b6c0-af81-4c12-8745-23595f5017ec" width=30% height=30%> 
@@ -50,6 +51,7 @@ In my free time, I like to take analog photos and make collages with my photos. 
 
 
 ### Collages
+These projects are more personal to me. I always draw a smiley face there, which I use as my logo, because despite my moods, it gives a slightly positive view of the collage.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/0f04cc85-ee7d-46e7-9eb0-f92148ef59b3" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/ddb26093-aa43-4ada-b581-b45698233797" width=30% height=30%>
@@ -57,6 +59,7 @@ In my free time, I like to take analog photos and make collages with my photos. 
 
 
 ### Portraits
+Portraits is one of the first genres I photographed. I like the fact that when you go to take pictures with someone, you have a small conversation, you get to know a new person.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/0290445d-8873-4012-9239-67b784395eca" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/470941d9-09b0-4c65-97fd-1e9a3c78ca2b" width=30% height=30%>
