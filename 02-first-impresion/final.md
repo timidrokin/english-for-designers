@@ -1,6 +1,6 @@
 # Hi, I'm Timofej...
 
-but just call me Timi. I'm mainly a product photographer. I try to put a lot of colors into my photos and I look for interesting details. Outside of photography, I love sports and traveling. I try to develop in all possible directions and experiment a lot and try basically everything in photography.
+but just call me Timi and i'm a product photographer. I try to put a lot of colors into my photos and I look for interesting details. Outside of photography, I love sports and traveling. I try to develop in all possible directions and experiment a lot and try basically everything in photography.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/934c107d-0b53-4814-86e8-7c2f7b0a168c" width=30% height=30%>
 
