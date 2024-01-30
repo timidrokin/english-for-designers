@@ -17,4 +17,4 @@ And I wouldn't even mind if the word used normally these days. It's such a gener
 The word gives me a feeling of insecurity, and maybe fear towards a person. Maybe the person who answers you like that doesn't want to hurt you in some way?
 
 
-Of course, i also use this word, but i try use it less this and tell a person straight that i can't today or I have plans for today.
+Of course, I also use this word, but i try use it less this and tell a person straight that i can't today or I have plans for today.
