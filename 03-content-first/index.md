@@ -6,7 +6,7 @@ but just call me Timi and i'm a product photographer. I try to put a lot of colo
 
 ## Navigation
 
-# What i do...
+# What I do...
 
 ## Portraits
 
