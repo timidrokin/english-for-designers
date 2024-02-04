@@ -8,7 +8,7 @@ but just call me Timi and i'm a product photographer. I try to put a lot of colo
 
 # What i do...
 
-### Portraits
+## Portraits
 
 One of the first genres I photographed were portraits. Mostly it's like that my friends or people from my circle write to me if I want to take a picture of them and I always say yes let's do it. I like the fact that when you go to take pictures with someone, you have a small conversation, you get to know a new person. I use different types of light and different colors in portraits.
 
@@ -16,7 +16,7 @@ One of the first genres I photographed were portraits. Mostly it's like that my 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/470941d9-09b0-4c65-97fd-1e9a3c78ca2b" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/f47e5bae-d3c4-43f9-9130-17c08fd82ff6" width=30% height=30%>
 
-### Analog
+## Analog
 
 In 2015 I bought my first analog camera and since that year I have been more interested in analog and old photography. What I like about analog is that you take 36 photos, and when you digitize, you no longer remember what you took. And it's a magical feeling when you remember some small memories. This made me fall in love with the retro style and everything about retro.
 
@@ -24,7 +24,7 @@ In 2015 I bought my first analog camera and since that year I have been more int
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3fb3b6c0-af81-4c12-8745-23595f5017ec" width=30% height=30%> 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/4bb16930-b69c-4951-a9c4-bd6e154e510e" width=30% height=30%> 
 
-### Collages
+## Collages
 
 In my free time I do experiments with my photos and these projects are very personal to me. I try to express my feelings in them, some obstacles that I have overcome. Always at the end I always draw a smiley face there, which I use as my logo. It gives a slightly positive view.
 
