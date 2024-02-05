@@ -34,24 +34,9 @@ In my free time I do experiments with my photos and these projects are very pers
 
 # My Projects
 
-## Snapbacks
-A long-term project where I took photos and made videos for websites and socials.
-
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/9d98fa3f-3659-4f9d-8cbd-b6b012b8aa9f" width=30% height=30%>
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/7761ba68-77c9-4b76-b952-57be99754c15" width=30% height=30%>
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/b202d53b-e7cf-4804-97b4-2a5112bbb01d" width=30% height=30%>
-
-
-## Vermont
-One of my biggest projects where I photographed. Clothes for brands such as Diesel, Karl Lagerfeld, Peak Performance, Gant... for the Vermont company.
-
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d7f315b7-a418-40e3-afe4-e3ebcc0352fe" width=40% height=40%>
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3b228590-3b86-4df3-9782-e06a11018556" width=40% height=40%>
-<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/ebf0f5f0-7c22-43cf-aad8-009e9abeb152" width=40% height=40%>
-
-
 ## Matoka
-In this project, I tried for the first time to take pictures of food and to more stylize the photos. 
+#### 2023
+Matoka is a food company that makes everything from American cheesesteaks to Georgian specialties. I did social media content for them.In this project, I tried for the first time to take pictures of food and to more stylize the photos. My biggest success here is the fact that they printed my photos on a large canvas and put them to decorate.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/664e2287-cd58-4cac-8c65-c97339d467a5" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/db466192-a6b2-4209-aaab-be18903d5f10" width=30% height=30%>
@@ -59,12 +44,28 @@ In this project, I tried for the first time to take pictures of food and to more
 
 
 ## Spike
-As I said before, I love colors, I try to add vibrancy and color to my photos and works. One of the other projects is Spike, where I took product photos for social media and website. 
+#### 2023
+Spike is a store that resells shoes and some limited clothing. I made content for them on social media, websites and also tried to work more with video. I learned to work more with light and with more people on the set. Here I discovered that I enjoy more different details and different colors in photos.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/65bcc2b5-ee40-443a-ada2-e75ff1b435ee" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/bca5f7a4-94c0-4601-a3ee-b55300792854" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/5ef90e3c-4a78-4c74-bed5-ff905f02f290" width=30% height=30%> 
 
+## Vermont
+#### 2022
+One of my biggest projects where I photographed. Clothes for brands such as Diesel, Karl Lagerfeld, Peak Performance, Gant... for the Vermont company. It was very challenging because I had never photographed for such a big company before. We had 2 photoshoots and they chose 6 photos from each photoshoot, which I think is a great success.
+
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/d7f315b7-a418-40e3-afe4-e3ebcc0352fe" width=40% height=40%>
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3b228590-3b86-4df3-9782-e06a11018556" width=40% height=40%>
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/ebf0f5f0-7c22-43cf-aad8-009e9abeb152" width=40% height=40%>
+
+## Snapbacks
+#### 2022
+Snapbacks is a store that sells hats. In addition to hats, they also sell some accessories and clothes that are not normally found in stores. I took photos for social media and websites. The collaboration started with them telling me that they like my style how I take pictures. This collaboration was over 2 years and it is probably my longest collaboration where I have created content.
+
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/9d98fa3f-3659-4f9d-8cbd-b6b012b8aa9f" width=30% height=30%>
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/7761ba68-77c9-4b76-b952-57be99754c15" width=30% height=30%>
+<img src="https://github.com/timidrokin/english-for-designers/assets/150053615/b202d53b-e7cf-4804-97b4-2a5112bbb01d" width=30% height=30%>
 
 # Portfolio
 
