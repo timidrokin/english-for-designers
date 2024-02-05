@@ -12,7 +12,7 @@ but just call me Timi and i'm a product photographer. I try to put a lot of colo
 <a href="#Analog">Analog</a>
 <a href="#Collages">Collages</a>
 
-### <a href="#My projects">My projects</a>
+### My projects
 
 <a href="#Matoka">Matoka</a>
 <a href="#Spike">Spike</a>
