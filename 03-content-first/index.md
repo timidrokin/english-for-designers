@@ -6,6 +6,9 @@ but just call me Timi and i'm a product photographer. I try to put a lot of colo
 
 ## Navigation
 
+<a href="#Portraits">Portraits</a>
+
+
 # What I do...
 
 ## Portraits
