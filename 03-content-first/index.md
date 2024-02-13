@@ -2,7 +2,7 @@
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/934c107d-0b53-4814-86e8-7c2f7b0a168c" width=30% height=30%>
 
-but just call me Timi and i'm a product photographer. I try to put a lot of colors into my photos and I look for interesting details. Outside of photography, I played ice hockey at a professional level for 16 years, also I would describe myself as very spontaneous guy and this is where my other hobby come from. Travelling. I try to develop in all possible directions and experiment a lot and try basically everything in photography.
+but call me Timi and i'm a product photographer. I try to put a lot of colors into my photos and I look for interesting details. Outside of photography, I played ice hockey at a professional level for 16 years. Also I would describe myself as very spontaneous guy and this is where my other hobby come from. Travelling. I try to develop in all possible directions and try everything in photography.
 
 ## Navigation
 
@@ -30,7 +30,7 @@ One of the first genres I photographed were portraits. Mostly it's like that my 
 
 ## Analog
 
-In 2015 I bought my first analog camera and since that year I have been more interested in analog and old photography. What I like about analog is that you take 36 photos, and when you digitize, you no longer remember what you took. And it's a magical feeling when you remember small memories. This made me fall in love with the retro style and everything about retro.
+In 2015 I bought my first analog camera and since that year I have been more interested in old photography. What I like about analog is that you take 36 photos, and when you digitize, you no longer remember what you took. And it's a magical feeling when you remember small memories. This made me fall in love with the retro style and everything about retro.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/6ae3365f-bd90-4670-b702-b2f83d4f026f" width=30% height=30%> 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/3fb3b6c0-af81-4c12-8745-23595f5017ec" width=30% height=30%> 
@@ -48,7 +48,7 @@ In my free time I do experiments with my photos and these projects are very pers
 
 ## Matoka
 #### 2023
-Matoka is a food company that makes everything from American cheesesteaks to Georgian specialties. I did social media content for them.In this project, I tried for the first time to take pictures of food and to more stylize the photos. My biggest success here is the fact that they printed my photos on a large canvas and put them to decorate.
+Matoka is a food company that makes everything from American cheesesteaks to Georgian specialties. I did social media content for them. In this project, I tried for the first time to take pictures of food and to more stylize the photos. My biggest success here is the fact that they printed my photos on a large canvas and put them to decorate.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/664e2287-cd58-4cac-8c65-c97339d467a5" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/db466192-a6b2-4209-aaab-be18903d5f10" width=30% height=30%>
@@ -73,7 +73,7 @@ One of my biggest projects where I photographed. Clothes for brands such as Dies
 
 ## Snapbacks
 #### 2022
-Snapbacks is a store that sells hats. In addition to hats, they also sell some accessories and clothes that are not normally found in stores. The collaboration started with them telling me that they like my style how I take pictures. This collaboration was over 2 years and it is probably my longest collaboration where I have created content. I took photos for social media and websites.
+Snapbacks is a store that sells hats. Besides to hats, they also sell some accessories and clothes that are not normally found in stores. The collaboration started with them telling me that they like my style how I take pictures. This was over 2 years and it is my longest collaboration where I have created content. I took photos for social media and websites.
 
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/9d98fa3f-3659-4f9d-8cbd-b6b012b8aa9f" width=30% height=30%>
 <img src="https://github.com/timidrokin/english-for-designers/assets/150053615/7761ba68-77c9-4b76-b952-57be99754c15" width=30% height=30%>
